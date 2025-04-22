@@ -8,13 +8,15 @@ from closing import closing
 st.markdown('''<h1 style='text-align:center;font-size:40px;font-weight:bolder;color:#FF4B4B; line-height:2;'>
             Bukit Vista's Property Rental Estimator
          </h1>''', unsafe_allow_html=True)
-tab1 = st.tabs(['Bukit Vista Project'])
+#konten utama
+bv_project_det()
 
-with tab1:
-    bv_project_det()
-    st.markdown('         ')
-    st.markdown('         ')
-    st.markdown('         ')
-    st.markdown('         ')
-    closing() 
+#spasi antar heading
+st.markdown('         ')
+st.markdown('         ')
+st.markdown('         ')
+st.markdown('         ')
+
+#penutup
+closing() 
     
