@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-from aboutme import aboutme
 from bv_project_det import bv_project_det
 from closing import closing
 
