@@ -11,7 +11,6 @@ st.markdown('''<h1 style='text-align:center;font-size:40px;font-weight:bolder;co
          </h1>''', unsafe_allow_html=True)
 tab1 = st.tabs(['Bukit Vista Project'])
 
-#About me
 with tab1:
     bv_project_det()
     st.markdown('         ')
