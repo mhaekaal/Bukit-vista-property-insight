@@ -12,10 +12,10 @@ st.markdown('''<h1 style='text-align:center;font-size:40px;font-weight:bolder;co
 bv_project_det()
 
 #spasi antar heading
-st.markdown('         ')
-st.markdown('         ')
-st.markdown('         ')
-st.markdown('         ')
+#st.markdown('         ')
+#st.markdown('         ')
+#st.markdown('         ')
+#st.markdown('         ')
 
 #penutup
 closing() 
