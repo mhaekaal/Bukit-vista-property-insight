@@ -11,8 +11,7 @@ import pickle
 
 def bv_project_det():
     st.markdown(
-        '''
-            <h1 style='text-align: center; font-size:25px;'>
+        '''<h1 style='text-align: center; font-size:25px;'>
                Predicting Hotel Rental Price per Night
             </h1>
         ''',
